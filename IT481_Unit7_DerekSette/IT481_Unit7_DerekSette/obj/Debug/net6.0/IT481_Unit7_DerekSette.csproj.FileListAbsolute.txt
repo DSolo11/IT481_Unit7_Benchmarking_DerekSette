@@ -1,0 +1,14 @@
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\bin\Debug\net6.0\IT481_Unit7_DerekSette.exe
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\bin\Debug\net6.0\IT481_Unit7_DerekSette.deps.json
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\bin\Debug\net6.0\IT481_Unit7_DerekSette.runtimeconfig.json
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\bin\Debug\net6.0\IT481_Unit7_DerekSette.dll
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\bin\Debug\net6.0\IT481_Unit7_DerekSette.pdb
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.AssemblyInfo.cs
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.dll
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\refint\IT481_Unit7_DerekSette.dll
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.pdb
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\IT481_Unit7_DerekSette.genruntimeconfig.cache
+C:\Users\derek\source\repos\IT481_Unit7_DerekSette\IT481_Unit7_DerekSette\obj\Debug\net6.0\ref\IT481_Unit7_DerekSette.dll
